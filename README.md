@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rifat Shikder
 - 👀 I’m interested in coding
 - 🌱 I’m currently complex problem solving
-- 💞️ I’m looking to collaborate on React & React Native projects
+- 💞️ I’m looking to collaborate on React, Next & React Native projects
 - 📫 Reach me...
 -       linkedin.com/in/rifatptk/
 -       facebook.com/rifatptk
