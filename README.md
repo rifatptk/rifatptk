@@ -1,9 +1,9 @@
 
 
 - 👋 Hi, I’m Rifat Shikder
-- 👀 I’m interested in coding
-- 🌱 I’m currently complex problem solving
-- 💞️ I’m looking to collaborate on React, Next & React Native,Node js & Express js projects
+- 👀 Interested in coding
+- 🌱 Currently learning complex problem solving
+- 💞️ I’m looking to collaborate on React, Nextjs & React Native,Node js & Express js projects
 - 📫 Reach me...
 -       linkedin.com/in/rifatptk/
 -       facebook.com/rifatptk
