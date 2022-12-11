@@ -2,8 +2,8 @@
 
 - 👋 Hi, I’m Rifat Shikder
 - 👀 I am a MERN Stack developer
-- 🌱 Currently learning complex problem solving
 - 💞️ I’m looking to collaborate on React, Nextjs & React Native, Node js & Express js projects
+
 # 📫 Reach me...
 
 -       linkedin.com/in/rifatptk/
