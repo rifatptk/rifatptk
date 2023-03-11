@@ -4,7 +4,6 @@
 
 _**Web Developer**_
 
----
 
 
 Hi, I'm **Rifat Shikder**, a web developer with a passion for creating beautifully
@@ -18,6 +17,9 @@ together to create a website that truly represents your brand and exceeds
 your expectations.
 
 [**Download Resume**](https://rifatptk.vercel.app/files/rifatptk_resume.pdf)
+
+[**rifatptk.vercel.app**](https://rifatptk.vercel.app)
+
 
 ## SKILLS
 
@@ -62,13 +64,15 @@ your expectations.
 - [github.com/rifatptk](https://github.com/rifatptk)
 - [facebook.com/rifatptk](https://facebook.com/rifatptk)
 - [instagram.com/rifatptk](https://instagram.com/in/rifatptk)
-- [linkedin.com/in/rifatptk/](https://linkedin.com/in/rifatptk)
+- [linkedin.com/in/rifatptk](https://linkedin.com/in/rifatptk)
 
 ## Resume
 
 
 
 [**Download Resume**](https://rifatptk.vercel.app/files/rifatptk_resume.pdf)
+
+[**rifatptk.vercel.app**](https://rifatptk.vercel.app)
 
 ## Thank You!
 
