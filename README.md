@@ -25,7 +25,7 @@ your expectations.
 
 
 
-#### Expert in
+#### Proficient in
 
 -       HTML, CSS, SASS, Bootstrap, TailwindCSS
 -       Javascript, React, Next.js, Redux
@@ -44,10 +44,6 @@ your expectations.
 -       Motherland & Polytechnic Institute
         Diploma in Computer Engineering
         Completed in 2022 (CGPA 3.86)
-
--       Ishaq Model College
-        Higher Secondary Certificate
-        Completed in 2015 (GPA 4.79)
 
 -       Patuakhali Govt. Jubilee High School
         Secondary School Certificate
