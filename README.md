@@ -28,18 +28,16 @@ your expectations.
 #### Proficient in
 
 -       HTML, CSS, SASS, Bootstrap, TailwindCSS
--       Javascript, React, Next.js, Redux
+-       Javascript, React, Next.js
 -       Git, Github
 
 #### Intermediate in
 
--       Node.js, Express.js, MongoDB
--       Python, Django, DRF, SQL
--       React Native
+-       Node.js, Express.js, Nest.js
+-       Python, Django, DRF
+-       SQL, No-SQL
 
 ## EDUCATION
-
-
 
 -       Motherland & Polytechnic Institute
         Diploma in Computer Engineering
@@ -55,8 +53,8 @@ your expectations.
 
 **Click to knock:**
 
-- [+880 1784-254902](tel:+8801784254902)
-- [rifatptk@gmail.com](mailto:rifatptk@gmail.com)
+- [+880 1614-729335](tel:+8801614729335)
+- [rifatsk.dev@gmail.com](mailto:rifatsk.dev@gmail.com)
 - [github.com/rifatptk](https://github.com/rifatptk)
 - [facebook.com/rifatptk](https://facebook.com/rifatptk)
 - [instagram.com/rifatptk](https://instagram.com/in/rifatptk)
