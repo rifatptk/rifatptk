@@ -23,10 +23,6 @@ your expectations.
 
 ## SKILLS
 
-
-
-#### Proficient in
-
 -       HTML, CSS, SASS, Bootstrap, TailwindCSS
 -       Javascript, Typescript, React, Next.js
 -       Git, Github, Gitlab, Bitbucket
