@@ -18,7 +18,7 @@ your expectations.
 
 [**Download Resume**](https://rifatptk.vercel.app/files/rifatptk_resume.pdf)
 
-[**rifatptk.vercel.app**](https://rifatptk.vercel.app)
+[**Portfolio**](https://rifatptk.vercel.app)
 
 
 ## SKILLS
@@ -28,24 +28,14 @@ your expectations.
 #### Proficient in
 
 -       HTML, CSS, SASS, Bootstrap, TailwindCSS
--       Javascript, React, Next.js
--       Git, Github
-
-#### Intermediate in
-
+-       Javascript, Typescript, React, Next.js
+-       Git, Github, Gitlab, Bitbucket
 -       Node.js, Express.js, Nest.js
 -       Python, Django, DRF
--       SQL, No-SQL
+-       SQL, No-SQL, Redis
+-       Linux, Docker
+-       AWS
 
-## EDUCATION
-
--       Motherland & Polytechnic Institute
-        Diploma in Computer Engineering
-        Completed in 2022 (CGPA 3.86)
-
--       Patuakhali Govt. Jubilee High School
-        Secondary School Certificate
-        Completed in 2013 (CGPA 4.88)
 
 ## 📫 Reach me...
 
@@ -66,7 +56,7 @@ your expectations.
 
 [**Download Resume**](https://rifatptk.vercel.app/files/rifatptk_resume.pdf)
 
-[**rifatptk.vercel.app**](https://rifatptk.vercel.app)
+[**Portfolio**](https://rifatptk.vercel.app)
 
 ## Thank You!
 
