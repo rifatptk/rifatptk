@@ -54,5 +54,8 @@ Let’s connect and build something amazing together!
 
 [**Portfolio**](https://rifatptk.vercel.app)
 
-## Thank You!
+## Stats
+<img src="https://komarev.com/ghpvc/?username=rifatptk&label=Profile%20views&color=0e75b6&style=flat" alt="rifatptk" />
+
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=rifatptk&" alt="rifatptk" />
 
