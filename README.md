@@ -27,7 +27,6 @@ Let’s connect and build something amazing together!
 -       Javascript, Typescript, React, Next.js
 -       Git, Github, Gitlab, Bitbucket
 -       Node.js, Express.js, Nest.js
--       Python, Django, DRF
 -       SQL, No-SQL, Redis
 -       Linux, Docker
 -       AWS
