@@ -16,7 +16,7 @@ When I’m not coding, you’ll find me exploring new technologies, contributing
 
 Let’s connect and build something amazing together!
 
-[**Download Resume**](https://rifatptk.vercel.app/files/rifat-shikder.pdf)
+[**Download Resume**](https://rifatptk.vercel.app/files/Rifat_Shikder_Resume.pdf)
 
 [**Portfolio**](https://rifatptk.vercel.app)
 
@@ -49,7 +49,7 @@ Let’s connect and build something amazing together!
 
 
 
-[**Download Resume**](https://rifatptk.vercel.app/files/rifatptk_resume.pdf)
+[**Download Resume**](https://rifatptk.vercel.app/files/Rifat_Shikder_Resume.pdf)
 
 [**Portfolio**](https://rifatptk.vercel.app)
 
