@@ -24,7 +24,7 @@ Let’s connect and build something amazing together!
 ## SKILLS
 
 -       HTML, CSS, SASS, Bootstrap, TailwindCSS
--       Javascript, Typescript, React, Next.js
+-       Javascript, Typescript, Angular, React, Next.js
 -       Git, Github, Gitlab, Bitbucket
 -       Node.js, Express.js, Nest.js
 -       SQL, No-SQL, Redis
