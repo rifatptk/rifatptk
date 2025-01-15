@@ -31,11 +31,9 @@ Let’s connect and build something amazing together!
 -       Linux, Docker
 -       AWS
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=typescript,angular,react,next,nodejs,express,nestjs,postgres,mongo,redis,git,docker" />
-  </a>
-</p>
+
+ <img src="https://skillicons.dev/icons?i=javascript,typescript,angular,react,next,nodejs,express,nestjs,postgres,mongo,redis,git,docker" />
+
 
 
 ## 📫 Reach me...
