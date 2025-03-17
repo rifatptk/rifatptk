@@ -16,9 +16,9 @@ When I’m not coding, you’ll find me exploring new technologies, contributing
 
 Let’s connect and build something amazing together!
 
-[**Download Resume**](https://rifatptk.vercel.app/files/Rifat_Shikder_Resume.pdf)
+[**Download Resume**](https://rifatsk.vercel.app/files/Rifat_Shikder_Resume.pdf)
 
-[**Portfolio**](https://rifatptk.vercel.app)
+[**Portfolio**](https://rifatsk.vercel.app)
 
 
 ## SKILLS
@@ -53,9 +53,9 @@ Let’s connect and build something amazing together!
 
 
 
-[**Download Resume**](https://rifatptk.vercel.app/files/Rifat_Shikder_Resume.pdf)
+[**Download Resume**](https://rifatsk.vercel.app/files/Rifat_Shikder_Resume.pdf)
 
-[**Portfolio**](https://rifatptk.vercel.app)
+[**Portfolio**](https://rifatsk.vercel.app)
 
 ## Stats
 <img src="https://komarev.com/ghpvc/?username=rifatptk&label=Profile%20views&color=0e75b6&style=flat" alt="rifatptk" />
