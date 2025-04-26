@@ -62,3 +62,5 @@ Let’s connect and build something amazing together!
 
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=rifatptk&" alt="rifatptk" />
 
+
+Thank you!
