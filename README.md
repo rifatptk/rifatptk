@@ -1,5 +1,3 @@
-
-
 # Rifat Shikder
 
 _**Web Developer**_
