@@ -21,11 +21,11 @@ Let’s connect and build something amazing together!
 
 ## SKILLS
 
--       HTML, CSS, SASS, Bootstrap, TailwindCSS
--       Javascript, Typescript, Angular, React, Next.js
--       Git, Github, Gitlab, Bitbucket
+-       HTML, CSS, SASS, TailwindCSS
+-       Javascript, Typescript, React, Next.js, Angular
 -       Node.js, Express.js, Nest.js
 -       SQL, No-SQL, Redis
+-       Git, Github, Gitlab, Bitbucket
 -       Linux, Docker
 -       AWS
 
